@@ -1,0 +1,26 @@
+td
+{
+	font-family: monospace;
+	font-size: large;
+}
+
+.first-cell
+{
+	background-color: darkcyan;
+}
+
+.second-cell
+{
+	background-color:tan;
+}
+
+table
+{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
